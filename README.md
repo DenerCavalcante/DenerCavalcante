@@ -5,7 +5,7 @@ Formação
 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 
-Tenho conhecimentos ans seguintes areas: 
+Tenho conhecimentos nas seguintes areas: 
 
  <div>
   <a href="https://github.com/DenerCavalcante">
