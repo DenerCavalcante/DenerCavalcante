@@ -1,11 +1,10 @@
-## Olá! Muito prazer me chamo Dener Cavalcante!
+## Hi! Nice to meet you, my name is Dener Cavalcante!
 
-Formação
+Training
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas.
+Technologist in Systems Analysis and Development.
 
-
-Tenho conhecimentos nas seguintes areas: 
+I have expertise in the following areas:
 
  <div>
   <a href="https://github.com/DenerCavalcante">
